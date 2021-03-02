@@ -50,4 +50,4 @@ curl https://my-json-server.typicode.com/broadcastplatforms/rest-api-test/statio
 ```
 
 ## Your task
-Create a Rest Assured test for shell test method in `src.test.java.StationApiTest`
+Create a Rest Assured test for shell test methods in `src.test.java.StationApiTest`
