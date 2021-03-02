@@ -44,7 +44,7 @@ curl https://my-json-server.typicode.com/broadcastplatforms/rest-api-test/statio
 ```java
 curl https://my-json-server.typicode.com/broadcastplatforms/rest-api-test/stations/1 -X PUT -d "{\"name\":\"Capital London\"}"
 {
-  "name":"Capital London"},
+  "name":"Capital London",
   "id": 1
 }
 ```
