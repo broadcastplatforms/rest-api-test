@@ -2,27 +2,27 @@
   "stations": [
     {
       "id": 1,
-      "title": "Capital FM"
+      "name": "Capital FM"
     },
     {
       "id": 2,
-      "title": "Capital Xtra"
+      "name": "Capital Xtra"
     },
     {
       "id": 3,
-      "title": "Classic FM"
+      "name": "Classic FM"
     },
     {
       "id": 4,
-      "title": "LBC London"
+      "name": "LBC London"
     },
     {
       "id": 5,
-      "title": "Heart London"
+      "name": "Heart London"
     },
     {
       "id": 6,
-      "title": "Smooth London"
+      "name": "Smooth London"
     }
   ],
   "profile": {
