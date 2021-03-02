@@ -1,8 +1,8 @@
 # station-api-test
 Provides Station REST API for use in interviews
 
-##Endpoints
-###GET stations
+## Endpoints
+### GET stations
 ```java
 curl https://my-json-server.typicode.com/broadcastplatforms/rest-api-test/stations
 [
@@ -32,7 +32,7 @@ curl https://my-json-server.typicode.com/broadcastplatforms/rest-api-test/statio
   }
 ]
 ```
-###GET station
+### GET station
 ```java
 curl https://my-json-server.typicode.com/broadcastplatforms/rest-api-test/stations/1
 {
@@ -40,7 +40,7 @@ curl https://my-json-server.typicode.com/broadcastplatforms/rest-api-test/statio
   "name": "Capital FM"
 }
 ```
-###UPDATE station
+### UPDATE station
 ```java
 curl https://my-json-server.typicode.com/broadcastplatforms/rest-api-test/stations/1 -X PUT -d "{\"name\":\"Capital London\"}"
 {
